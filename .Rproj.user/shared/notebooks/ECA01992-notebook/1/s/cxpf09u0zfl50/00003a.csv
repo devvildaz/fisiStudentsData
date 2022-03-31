@@ -1,0 +1,7 @@
+"0","data.rep$asignatura <- lapply(data.rep$asignatura,function(item) stri_trans_general(str=item, id=""ASCII""))"
+"0","test_data <- data.rep %>%"
+"0","  filter(cod_semestre==""20171"") %>%"
+"0","  select(asignatura, num_rep) %>%"
+"0","  group_by(asignatura) %>%"
+"0","  summarise(num_rep = sum(num_rep)) %>%"
+"0","  arrange(num_rep)"

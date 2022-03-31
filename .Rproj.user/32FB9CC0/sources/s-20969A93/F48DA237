@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1648525078447.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F48DA237",
+    "lastKnownWriteTime" : 1648701639,
+    "last_content_update" : 1648701639075,
+    "path" : "~/Code/R/fisiStudentsShiny/notebook.Rmd",
+    "project_path" : "notebook.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "93,0",
+        "scrollLine" : "87",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,5 @@
+"0","library(plotly)"
+"0","library(showtext)"
+"0","## Loading Google fonts (https://fonts.google.com/)"
+"0","showtext_auto()"
+"0","font_add_google(""Gochi Hand"", ""gochi"")"

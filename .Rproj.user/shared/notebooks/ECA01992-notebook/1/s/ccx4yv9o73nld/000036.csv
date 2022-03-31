@@ -1,0 +1,5 @@
+"0","fig <- plot_ly(x=test_data$num_rep, y=test_data$asignatura,type='bar',orientation='h',sizes = c(10, 300))"
+"0","fig <- fig %>% layout(autosize = F, width = 1000, height = 1000)"
+"2","Specifying width/height in layout() is now deprecated.
+Please specify in ggplotly() or plot_ly()"
+"0","fig"
