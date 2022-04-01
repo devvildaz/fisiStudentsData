@@ -2,13 +2,4 @@
 "0","library(""Dict"")"
 "0","library(dplyr)"
 "0","library(DT)"
-"2","
-Attaching package: ‘DT’
-
-"
-"2","The following objects are masked from ‘package:shiny’:
-
-    dataTableOutput, renderDataTable
-
-"
 "0","library(stringi)"
